@@ -3,4 +3,4 @@
 
 ## Got accepted! 
 <p align="center">
-<img href="select.png">hehe</p>
+<img href="select.png"></p>
