@@ -3,4 +3,4 @@
 
 # Got accepted! kollam pwoli sanam
 <p align="center">
-<img href="select.jpg"></p>
+<img href="select.png"></p>
