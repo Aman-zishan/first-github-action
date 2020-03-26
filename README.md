@@ -11,7 +11,7 @@ on: push
 
 jobs:
   build:
-    name: Hello world action
+    name: well-wisher
     runs-on: ubuntu-latest
     steps:
       - uses: Aman-zishan/first-github-action@v1
