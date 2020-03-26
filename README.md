@@ -4,7 +4,7 @@
 copy and paste these code to your main.yml in newly created workflow
 
 ```
-shell
+
 
 name: well-wisher-1.0
 on: push
